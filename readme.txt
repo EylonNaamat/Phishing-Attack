@@ -1,8 +1,6 @@
 Name: Eylon Naamat
-ID: 315303529
 
 Name: Michael Matveev
-ID: 315918557
 
 
 The imports are:
